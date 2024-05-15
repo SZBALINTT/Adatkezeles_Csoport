@@ -1,0 +1,424 @@
+[{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c543"
+  },
+  "city": "Tatabánya",
+  "street": "Fő tér",
+  "size": "medium"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c549"
+  },
+  "city": "Vác",
+  "street": "Duna korzó",
+  "size": "medium"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c54d"
+  },
+  "city": "Ajka",
+  "street": "Kossuth tér",
+  "size": "small"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c551"
+  },
+  "city": "Cegléd",
+  "street": "Kossuth tér",
+  "size": "large"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c555"
+  },
+  "city": "Mosonmagyaróvár",
+  "street": "Kossuth Lajos utca",
+  "size": "medium"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c556"
+  },
+  "city": "Eger",
+  "street": "Dobó tér",
+  "size": "small"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c558"
+  },
+  "city": "Siófok",
+  "street": "Fő utca",
+  "size": "medium"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c525"
+  },
+  "city": "Budapest",
+  "street": "Váci utca",
+  "size": "large"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c529"
+  },
+  "city": "Pécs",
+  "street": "Fő utca",
+  "size": "medium"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c528"
+  },
+  "city": "Miskolc",
+  "street": "Szent István tér",
+  "size": "large"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c52d"
+  },
+  "city": "Székesfehérvár",
+  "street": "Városház tér",
+  "size": "large"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c530"
+  },
+  "city": "Eger",
+  "street": "Dobó tér",
+  "size": "large"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c535"
+  },
+  "city": "Dunaújváros",
+  "street": "Fő utca",
+  "size": "small"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c53d"
+  },
+  "city": "Baja",
+  "street": "Petőfi tér",
+  "size": "medium"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c53f"
+  },
+  "city": "Százhalombatta",
+  "street": "Kossuth Lajos utca",
+  "size": "large"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c545"
+  },
+  "city": "Békés",
+  "street": "Petőfi tér",
+  "size": "large"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c550"
+  },
+  "city": "Tatabánya",
+  "street": "Fő tér",
+  "size": "small"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c557"
+  },
+  "city": "Budaörs",
+  "street": "Fő tér",
+  "size": "large"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c526"
+  },
+  "city": "Debrecen",
+  "street": "Piac utca",
+  "size": "medium"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c532"
+  },
+  "city": "Békéscsaba",
+  "street": "Petőfi tér",
+  "size": "small"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c536"
+  },
+  "city": "Hódmezővásárhely",
+  "street": "Széchenyi tér",
+  "size": "large"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c53c"
+  },
+  "city": "Vác",
+  "street": "Duna korzó",
+  "size": "large"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c53e"
+  },
+  "city": "Hatvan",
+  "street": "Kossuth tér",
+  "size": "small"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c542"
+  },
+  "city": "Orosháza",
+  "street": "Kossuth tér",
+  "size": "large"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c546"
+  },
+  "city": "Dunakeszi",
+  "street": "Fő utca",
+  "size": "medium"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c52e"
+  },
+  "city": "Szombathely",
+  "street": "Kossuth Lajos utca",
+  "size": "medium"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c531"
+  },
+  "city": "Veszprém",
+  "street": "Széchenyi tér",
+  "size": "medium"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c53b"
+  },
+  "city": "Budapest",
+  "street": "Szent István tér",
+  "size": "small"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c541"
+  },
+  "city": "Budapest",
+  "street": "Örs Vezér tere",
+  "size": "small"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c54b"
+  },
+  "city": "Hatvan",
+  "street": "Kossuth tér",
+  "size": "large"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c527"
+  },
+  "city": "Szeged",
+  "street": "Dóm tér",
+  "size": "small"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c52c"
+  },
+  "city": "Kecskemét",
+  "street": "Kossuth tér",
+  "size": "small"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c533"
+  },
+  "city": "Zalaegerszeg",
+  "street": "Széchenyi tér",
+  "size": "large"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c534"
+  },
+  "city": "Sopron",
+  "street": "Fő tér",
+  "size": "medium"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c538"
+  },
+  "city": "Kaposvár",
+  "street": "Fő utca",
+  "size": "small"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c540"
+  },
+  "city": "Ajka",
+  "street": "Kossuth tér",
+  "size": "medium"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c547"
+  },
+  "city": "Esztergom",
+  "street": "Kossuth Lajos utca",
+  "size": "small"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c548"
+  },
+  "city": "Gödöllő",
+  "street": "Szent István tér",
+  "size": "large"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c54a"
+  },
+  "city": "Baja",
+  "street": "Petőfi tér",
+  "size": "small"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c54c"
+  },
+  "city": "Százhalombatta",
+  "street": "Kossuth Lajos utca",
+  "size": "medium"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c559"
+  },
+  "city": "Gyál",
+  "street": "Petőfi tér",
+  "size": "small"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c52a"
+  },
+  "city": "Győr",
+  "street": "Bécsi út",
+  "size": "large"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c52f"
+  },
+  "city": "Szekszárd",
+  "street": "Arany János utca",
+  "size": "small"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c539"
+  },
+  "city": "Nagykanizsa",
+  "street": "Fő tér",
+  "size": "large"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c53a"
+  },
+  "city": "Budapest",
+  "street": "Kossuth Lajos utca",
+  "size": "medium"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c552"
+  },
+  "city": "Békés",
+  "street": "Petőfi tér",
+  "size": "medium"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c544"
+  },
+  "city": "Cegléd",
+  "street": "Kossuth tér",
+  "size": "small"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c54e"
+  },
+  "city": "Ózd",
+  "street": "Fő tér",
+  "size": "large"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c54f"
+  },
+  "city": "Orosháza",
+  "street": "Kossuth tér",
+  "size": "medium"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c52b"
+  },
+  "city": "Nyíregyháza",
+  "street": "Széchenyi tér",
+  "size": "medium"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c537"
+  },
+  "city": "Salgótarján",
+  "street": "Fő tér",
+  "size": "medium"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c553"
+  },
+  "city": "Dunakeszi",
+  "street": "Fő utca",
+  "size": "small"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c554"
+  },
+  "city": "Hajdúböszörmény",
+  "street": "Fő tér",
+  "size": "large"
+}]

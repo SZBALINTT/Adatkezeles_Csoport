@@ -1,0 +1,468 @@
+[{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4c1"
+  },
+  "name": "Coca-Cola",
+  "price": 400,
+  "category": "Soft Drinks",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4c2"
+  },
+  "name": "Fanta",
+  "price": 450,
+  "category": "Soft Drinks",
+  "volume": "500ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4cd"
+  },
+  "name": "Rockstar",
+  "price": 610,
+  "category": "Energy Drinks",
+  "volume": "250ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4c6"
+  },
+  "name": "Burn",
+  "price": 580,
+  "category": "Energy Drinks",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4c9"
+  },
+  "name": "Bacardi",
+  "price": 1100,
+  "category": "Alcoholic Beverages",
+  "volume": "500ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4d4"
+  },
+  "name": "Schweppes",
+  "price": 490,
+  "category": "Soft Drinks",
+  "volume": "500ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4d5"
+  },
+  "name": "Gatorade",
+  "price": 440,
+  "category": "Soft Drinks",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4d6"
+  },
+  "name": "Burner",
+  "price": 620,
+  "category": "Energy Drinks",
+  "volume": "250ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4d9"
+  },
+  "name": "Guinness",
+  "price": 970,
+  "category": "Alcoholic Beverages",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4e3"
+  },
+  "name": "Becks",
+  "price": 960,
+  "category": "Alcoholic Beverages",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4e5"
+  },
+  "name": "Mountain Dew Voltage",
+  "price": 430,
+  "category": "Soft Drinks",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4e9"
+  },
+  "name": "Rockstar Guava",
+  "price": 620,
+  "category": "Energy Drinks",
+  "volume": "500ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4ea"
+  },
+  "name": "Relentless Origin",
+  "price": 600,
+  "category": "Energy Drinks",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4ec"
+  },
+  "name": "Guinness Draught",
+  "price": 980,
+  "category": "Alcoholic Beverages",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4d7"
+  },
+  "name": "Relentless",
+  "price": 590,
+  "category": "Energy Drinks",
+  "volume": "500ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4c8"
+  },
+  "name": "Corona",
+  "price": 950,
+  "category": "Alcoholic Beverages",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4c3"
+  },
+  "name": "Sprite",
+  "price": 420,
+  "category": "Soft Drinks",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4c5"
+  },
+  "name": "Monster",
+  "price": 550,
+  "category": "Energy Drinks",
+  "volume": "500ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4d1"
+  },
+  "name": "Smirnoff",
+  "price": 920,
+  "category": "Alcoholic Beverages",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4dc"
+  },
+  "name": "Dr. Pepper",
+  "price": 420,
+  "category": "Soft Drinks",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4de"
+  },
+  "name": "Mountain Dew Code Red",
+  "price": 450,
+  "category": "Soft Drinks",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4ed"
+  },
+  "name": "Bacardi Breezer",
+  "price": 1180,
+  "category": "Alcoholic Beverages",
+  "volume": "500ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4f0"
+  },
+  "name": "Schweppes Indian Tonic",
+  "price": 470,
+  "category": "Soft Drinks",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4f2"
+  },
+  "name": "Monster Ultra Sunrise",
+  "price": 640,
+  "category": "Energy Drinks",
+  "volume": "500ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4dd"
+  },
+  "name": "Lipton Ice Tea",
+  "price": 480,
+  "category": "Soft Drinks",
+  "volume": "500ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4e0"
+  },
+  "name": "Rockstar Punched",
+  "price": 600,
+  "category": "Energy Drinks",
+  "volume": "500ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4e6"
+  },
+  "name": "Pepsi Twist",
+  "price": 500,
+  "category": "Soft Drinks",
+  "volume": "500ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4c7"
+  },
+  "name": "Heineken",
+  "price": 900,
+  "category": "Alcoholic Beverages",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4da"
+  },
+  "name": "Bud Light",
+  "price": 940,
+  "category": "Alcoholic Beverages",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4df"
+  },
+  "name": "Monster Absolute Zero",
+  "price": 630,
+  "category": "Energy Drinks",
+  "volume": "250ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4e7"
+  },
+  "name": "Mirinda",
+  "price": 460,
+  "category": "Soft Drinks",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4e8"
+  },
+  "name": "Red Bull Sugarfree",
+  "price": 640,
+  "category": "Energy Drinks",
+  "volume": "250ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4ca"
+  },
+  "name": "Pepsi",
+  "price": 380,
+  "category": "Soft Drinks",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4c4"
+  },
+  "name": "Red Bull",
+  "price": 600,
+  "category": "Energy Drinks",
+  "volume": "250ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4cb"
+  },
+  "name": "Mountain Dew",
+  "price": 470,
+  "category": "Soft Drinks",
+  "volume": "500ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4ce"
+  },
+  "name": "NOS",
+  "price": 580,
+  "category": "Energy Drinks",
+  "volume": "500ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4cf"
+  },
+  "name": "AMP",
+  "price": 540,
+  "category": "Energy Drinks",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4d0"
+  },
+  "name": "Jack Daniel's",
+  "price": 850,
+  "category": "Alcoholic Beverages",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4d3"
+  },
+  "name": "Dr Pepper",
+  "price": 410,
+  "category": "Soft Drinks",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4e1"
+  },
+  "name": "Burn Berry",
+  "price": 570,
+  "category": "Energy Drinks",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4e4"
+  },
+  "name": "Captain Morgan",
+  "price": 1150,
+  "category": "Alcoholic Beverages",
+  "volume": "500ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4eb"
+  },
+  "name": "Carlsberg",
+  "price": 1010,
+  "category": "Alcoholic Beverages",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4ee"
+  },
+  "name": "Coca-Cola Cherry",
+  "price": 440,
+  "category": "Soft Drinks",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4ef"
+  },
+  "name": "Mountain Dew Live Wire",
+  "price": 520,
+  "category": "Soft Drinks",
+  "volume": "500ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4d2"
+  },
+  "name": "Grey Goose",
+  "price": 1050,
+  "category": "Alcoholic Beverages",
+  "volume": "500ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4d8"
+  },
+  "name": "XS",
+  "price": 560,
+  "category": "Energy Drinks",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4db"
+  },
+  "name": "Jameson",
+  "price": 1200,
+  "category": "Alcoholic Beverages",
+  "volume": "500ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4e2"
+  },
+  "name": "Budweiser Budvar",
+  "price": 990,
+  "category": "Alcoholic Beverages",
+  "volume": "330ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4f1"
+  },
+  "name": "Red Bull Red Edition",
+  "price": 650,
+  "category": "Energy Drinks",
+  "volume": "250ml"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4f3"
+  },
+  "name": "Aloe Vera Drink",
+  "price": 1500,
+  "category": "Soft Drinks",
+  "volume": "250ml"
+},
+{
+  "_id": {
+    "$oid": "6640c2f2f2f2346314a0095e"
+  },
+  "name": "Spar S-Budget Energy Drink",
+  "price": 199,
+  "category": "Energy Drinks",
+  "volume": "200ml"
+},
+{
+  "_id": {
+    "$oid": "66412c80285a015c98845eb3"
+  },
+  "name": "Spar S-Budget Energy Drink",
+  "price": 199,
+  "category": "Energy Drinks",
+  "volume": "200ml"
+}]

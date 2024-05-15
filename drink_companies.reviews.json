@@ -1,0 +1,440 @@
+[{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4f7"
+  },
+  "drink_name": "Monster",
+  "rating": 2,
+  "comment": "Too strong for me."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4f5"
+  },
+  "drink_name": "Sprite",
+  "rating": 5,
+  "comment": "Refreshing!"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4ff"
+  },
+  "drink_name": "Rockstar",
+  "rating": 2,
+  "comment": "Too much caffeine."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4f4"
+  },
+  "drink_name": "Fanta",
+  "rating": 3,
+  "comment": "Too sweet for my liking."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c505"
+  },
+  "drink_name": "Dr Pepper",
+  "rating": 5,
+  "comment": "Love the unique flavor!"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c50b"
+  },
+  "drink_name": "Guinness",
+  "rating": 5,
+  "comment": "Classic stout, love it!"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c50c"
+  },
+  "drink_name": "Bud Light",
+  "rating": 3,
+  "comment": "Light and easy to drink."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c513"
+  },
+  "drink_name": "Burn Berry",
+  "rating": 2,
+  "comment": "Too artificial tasting."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c51f"
+  },
+  "drink_name": "Bacardi Breezer",
+  "rating": 3,
+  "comment": "Too sweet for my taste."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c523"
+  },
+  "drink_name": "Red Bull Red Edition",
+  "rating": 4,
+  "comment": "Nice fruity taste."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c519"
+  },
+  "drink_name": "Mirinda",
+  "rating": 4,
+  "comment": "Nice orange flavor."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c51d"
+  },
+  "drink_name": "Carlsberg",
+  "rating": 4,
+  "comment": "Classic lager taste."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4f8"
+  },
+  "drink_name": "Burn",
+  "rating": 3,
+  "comment": "Average taste."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4fd"
+  },
+  "drink_name": "Mountain Dew",
+  "rating": 5,
+  "comment": "Love the citrus flavor!"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4fe"
+  },
+  "drink_name": "7UP",
+  "rating": 4,
+  "comment": "Classic lemon-lime taste."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c506"
+  },
+  "drink_name": "Schweppes",
+  "rating": 4,
+  "comment": "Great mixer for cocktails."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c507"
+  },
+  "drink_name": "Gatorade",
+  "rating": 5,
+  "comment": "Perfect for hydration after a workout."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c509"
+  },
+  "drink_name": "Relentless",
+  "rating": 3,
+  "comment": "Average energy drink."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c511"
+  },
+  "drink_name": "Monster Absolute Zero",
+  "rating": 3,
+  "comment": "Decent taste, not too sweet."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c516"
+  },
+  "drink_name": "Captain Morgan",
+  "rating": 5,
+  "comment": "Great rum for mixing cocktails."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c521"
+  },
+  "drink_name": "Mountain Dew Live Wire",
+  "rating": 5,
+  "comment": "Love the orange kick!"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4fa"
+  },
+  "drink_name": "Corona",
+  "rating": 5,
+  "comment": "Perfect for a summer day."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4fc"
+  },
+  "drink_name": "Pepsi",
+  "rating": 5,
+  "comment": "Pineapple-menta Pepsi is the ABSOLUTE BEST. I LOVE IT. Too bad they don't sell it anymore . :C"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c502"
+  },
+  "drink_name": "Jack Daniel's",
+  "rating": 5,
+  "comment": "Smooth whiskey."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c503"
+  },
+  "drink_name": "Smirnoff",
+  "rating": 3,
+  "comment": "Decent vodka."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c50a"
+  },
+  "drink_name": "XS",
+  "rating": 4,
+  "comment": "Nice flavor, gives me a boost."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c512"
+  },
+  "drink_name": "Rockstar Punched",
+  "rating": 4,
+  "comment": "Nice fruity flavor."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c51e"
+  },
+  "drink_name": "Guinness Draught",
+  "rating": 5,
+  "comment": "Love the creamy texture!"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c522"
+  },
+  "drink_name": "Schweppes Indian Tonic",
+  "rating": 3,
+  "comment": "Too bitter for my taste."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c501"
+  },
+  "drink_name": "AMP",
+  "rating": 4,
+  "comment": "Good flavor, gives me a boost."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4f9"
+  },
+  "drink_name": "Heineken",
+  "rating": 4,
+  "comment": "One of my favorite beers!"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4fb"
+  },
+  "drink_name": "Bacardi",
+  "rating": 4,
+  "comment": "Smooth taste."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c508"
+  },
+  "drink_name": "Burner",
+  "rating": 2,
+  "comment": "Not a fan of the taste."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c515"
+  },
+  "drink_name": "Becks",
+  "rating": 3,
+  "comment": "Decent German beer."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c517"
+  },
+  "drink_name": "Mountain Dew Voltage",
+  "rating": 4,
+  "comment": "Nice twist on classic Dew."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c520"
+  },
+  "drink_name": "Coca-Cola Cherry",
+  "rating": 4,
+  "comment": "Nice cherry flavor."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c504"
+  },
+  "drink_name": "Grey Goose",
+  "rating": 4,
+  "comment": "Great quality vodka."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c50d"
+  },
+  "drink_name": "Jameson",
+  "rating": 5,
+  "comment": "Smooth Irish whiskey."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c510"
+  },
+  "drink_name": "Mountain Dew Code Red",
+  "rating": 5,
+  "comment": "Love the cherry kick!"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c51a"
+  },
+  "drink_name": "Red Bull Sugarfree",
+  "rating": 5,
+  "comment": "Gives me energy without the sugar crash!"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4f3"
+  },
+  "drink_name": "Coca-Cola",
+  "rating": 4,
+  "comment": "Great taste!"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c50f"
+  },
+  "drink_name": "Lipton Ice Tea",
+  "rating": 4,
+  "comment": "Refreshing tea!"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c514"
+  },
+  "drink_name": "Budweiser Budvar",
+  "rating": 4,
+  "comment": "Smooth lager."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c51b"
+  },
+  "drink_name": "Rockstar Guava",
+  "rating": 3,
+  "comment": "Not a fan of the flavor."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c51c"
+  },
+  "drink_name": "Relentless Origin",
+  "rating": 4,
+  "comment": "Nice energy boost."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c524"
+  },
+  "drink_name": "Monster Ultra Sunrise",
+  "rating": 3,
+  "comment": "Decent taste, but too sweet."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c4f6"
+  },
+  "drink_name": "Red Bull",
+  "rating": 4,
+  "comment": "Gives a good energy boost."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c500"
+  },
+  "drink_name": "NOS",
+  "rating": 3,
+  "comment": "Decent energy drink."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c50e"
+  },
+  "drink_name": "Dr. Pepper",
+  "rating": 4,
+  "comment": "Love the cherry flavor!"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c518"
+  },
+  "drink_name": "Pepsi Twist",
+  "rating": 3,
+  "comment": "Prefer regular Pepsi."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c526"
+  },
+  "drink_name": "Aloe Vera Drink",
+  "rating": 5,
+  "review": "Kellemes ízű ital, ez a kedvencem."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c528"
+  },
+  "drink_name": "Aloe Vera Drink",
+  "rating": 4,
+  "review": "Kedvenc italom a mediterrán hangulatú estékre vagy egy esti gyakorlatra"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c525"
+  },
+  "drink_name": "Aloe Vera Drink",
+  "rating": 5,
+  "review": "A Legjobb üdítő amit valaha ittam."
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c529"
+  },
+  "drink_name": "Aloe Vera Drink",
+  "rating": 5,
+  "review": "A legfinomabb ami az automatáből kapható"
+},
+{
+  "_id": {
+    "$oid": "61ad5d72bc94f587d448c527"
+  },
+  "drink_name": "Aloe Vera Drink",
+  "rating": 5,
+  "review": "Egyszerűen imádom! Mindig frissítő és finom."
+}]
