@@ -1,0 +1,18 @@
+A 3. feladatot választottuk.
+NoSQL adatbázist hozunk létre és python segítségével készítjük el a lekérdezéseket.
+
+Létrehoztunk egy új Projektet és egy új Clustert MongoDB Atlasban. Csatlakoztunk a Clusterhez MongoShell segítségével. 
+Létrehoztunk egy adatbázist drink_companies néven, és csináltunk 4 gyüjteményt az adatbázisban.
+
+
+use webshop
+
+db.createCollection("drinks")
+db.createCollection("reviews")
+db.createCollection("users")
+db.createCollection("vending_machines")
+
+
+Az 4 gyüjtemény feltöltöttük adatokkal. Majd csatlakoztunk Python segítségével az adatbázishoz.
+
+
